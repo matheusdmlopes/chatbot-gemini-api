@@ -1,7 +1,6 @@
 import google.generativeai as genai
 import os
 import gradio
-import gradio.chat_interface
 import time
 from google.api_core.exceptions import InvalidArgument
 
